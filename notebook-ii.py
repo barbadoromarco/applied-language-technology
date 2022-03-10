@@ -1,6 +1,6 @@
 # Notebook 2
 # My solutions to the final exam
-# I jmport the pathlib module and use the module to read the content of each text file into string objects.
+# I import the pathlib module and use the module to read the content of each text file into string objects.
 from pathlib import Path
 
 corpus_dir = Path('sotu')
