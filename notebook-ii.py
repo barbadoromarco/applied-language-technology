@@ -6,7 +6,7 @@
 
 from pathlib import Path
 
-corpus_dir = Path('data/sotu')
+corpus_dir = Path('sotu')
 
 files = list(corpus_dir.glob(pattern='*.txt'))
 
